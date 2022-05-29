@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5276532593:AAFQRX6OAuugY4RwzNdZEvKcfbPUd5Ff04U"
+    APP_ID = "11066247"
+    API_HASH = "f2f6ca2def43c3fdd5295498378cf454"
+    DATABASE_URL = "postgres://gcogleyszpsdaj:8899ef947c41aaae70801d6b52abd3049104a54621bbd56023e36816c3c382b8@ec2-34-230-153-41.compute-1.amazonaws.com:5432/d9odf2o2ku0lt4"
+    SUDO_USERS = "1888661685" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/FireMovies465"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
